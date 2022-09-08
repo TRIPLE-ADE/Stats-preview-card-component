@@ -24,14 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 ![Desktop-design](./design/desktop-design.jpg)
 ![Mobile-design](./design/mobile-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/TRIPLE-ADE/Stats-preview-card-component)
+- Live Site URL: [Add live site URL here](https://triple-ade.github.io/Stats-preview-card-component/)
 
 ## My process
  - Algorithm : Process and ways of arranging and solving the problem
